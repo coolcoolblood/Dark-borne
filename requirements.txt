@@ -1,0 +1,16 @@
+# Core dependencies for Stock Afterhours Analysis
+# Python 3.9+ required
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Excel export
+xlsxwriter>=3.1.0
+openpyxl>=3.1.0
+
+# Environment variable management (optional but recommended)
+python-dotenv>=1.0.0
